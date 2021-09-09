@@ -1,3 +1,10 @@
+/*
+
+created by : Stephi Tyler
+date:        9/8/21
+
+*/
+
 import java.util.Scanner;
 import java.util.Random;
 
